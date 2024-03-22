@@ -1,0 +1,14 @@
+# FMAP Experiments
+# A collection of experiments to test the FMAP audio file format.
+# GitHub: https://www.github.com/lewisevans2007/FMAP_Experiments
+# License: GNU General Public License v3.0
+# By: Lewis Evans
+
+# Directorys
+out/
+FMAP/
+__pycache__/
+
+# Files
+.DS_Store
+*.pyc
