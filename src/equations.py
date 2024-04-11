@@ -1,8 +1,8 @@
 # FMAP Experiments
 # A collection of experiments to test the FMAP audio file format.
-# GitHub: https://www.github.com/lewisevans2007/FMAP_Experiments
+# GitHub: https://www.github.com/0x4248/FMAP_Experiments
 # License: GNU General Public License v3.0
-# By: Lewis Evans
+# By: 0x4248
 
 import math
 import matplotlib.pyplot
